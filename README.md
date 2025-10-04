@@ -30,5 +30,5 @@ By empowering users with tools to feel secure and supported, it bridges the gap 
 ---
 
 ### 🔗 Links
-- GitHub: [Repository Link](YOUR_REPO_LINK)  
+- GitHub: [Repository Link](https://github.com/talhashams01/Emergency_safety_app.git)  
 - Live Demo: [Firebase Hosting Link](YOUR_LIVE_LINK)
