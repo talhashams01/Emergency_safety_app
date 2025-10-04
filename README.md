@@ -31,4 +31,4 @@ By empowering users with tools to feel secure and supported, it bridges the gap 
 
 ### 🔗 Links
 - GitHub: [Repository Link](https://github.com/talhashams01/Emergency_safety_app.git)  
-- Live Demo: [Firebase Hosting Link](YOUR_LIVE_LINK)
+- Live Demo: [Firebase Hosting Link](https://safe-her-app.web.app)
